@@ -22,7 +22,8 @@ endmodule
 ```
 
 # PROGRAM INPUT
-![Uploading Screenshot 2023-06-06 233204.png…]()
+![Screenshot 2023-06-06 233204](https://github.com/Dharshan011/Simulation-project--Digital-Electronics/assets/113497491/81b0e600-a48d-49f6-bcca-40ec928b4115)
+
 
 
 
